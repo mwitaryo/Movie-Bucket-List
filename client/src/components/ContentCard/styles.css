@@ -1,0 +1,27 @@
+.card-container {
+  border-radius: 25px;
+  border: 2px solid;
+  width: 400px;
+  height: 700px;
+  /* color:#021c1e; */
+  /* color:#9a9eab */
+  /* color:#5d535e */
+  /* color:#FFFEE6 */
+  margin: 10px;
+}
+
+.box {
+  align-items: center;
+  /* border:1px solid; */
+  margin: 20px;
+}
+
+/* .box:hover{
+transform: scale(1.5);
+} */
+
+.box img:hover {
+  transform: scale(1.25);
+  cursor: pointer;
+
+}
